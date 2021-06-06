@@ -1,0 +1,4 @@
+﻿/Benchmark/BenchmarkDotNet.Artifacts/
+.idea
+Benchmark/bin
+Benchmark/obj
